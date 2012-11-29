@@ -1,0 +1,4 @@
+SimpleCalc
+==========
+
+Little practice project
